@@ -6,11 +6,11 @@ A API to validate email addresses by checking domain validity, MX records, black
 
 ### Domain Expiry & Age Calculation  
 
-MX Record Validation  
-Disposable Email Detection  
-Blacklist Status Check  
-Full SMTP Email Validation  
-API Rate Limiting with Redis  
+1. MX Record Validation  
+2. Disposable Email Detection  
+3. Blacklist Status Check  
+4. Full SMTP Email Validation  
+5. API Rate Limiting with Redis  
 
 ## 📡 How It Works  
 1️⃣ Accepts an email address  
@@ -29,8 +29,7 @@ httpPOST/check_email?email=example@gmail.com
 🚀 FastAPI → High-performance Python web framework
 📦 Redis → Used for caching & rate limiting
 📡 WHOIS → Fetches domain registration details
-📩 dnspython → Checks MX records for email validation
-📮 SMTP → Verifies email existence
+📩 dnspython → Checks MX records for email validation📮 SMTP → Verifies email existence
 🐳 Docker (Optional) → For containerized deployment
 
 ## 📜 License

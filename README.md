@@ -1,6 +1,6 @@
 # 🚀 FastAPI Email Validator API  
 
-A high-performance API to validate email addresses by checking domain validity, MX records, blacklist status, and more.  
+A API to validate email addresses by checking domain validity, MX records, blacklist status, and more.  
 
 ## ✅ Features  
 - Domain Expiry & Age Calculation  

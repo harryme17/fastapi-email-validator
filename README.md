@@ -5,6 +5,7 @@ A API to validate email addresses by checking domain validity, MX records, black
 ## ✅ Features  
 
 ### Domain Expiry & Age Calculation  
+
 ### MX Record Validation  
 ### Disposable Email Detection  
 ### Blacklist Status Check  

@@ -30,13 +30,13 @@ A high-performance API to validate email addresses by checking domain validity, 
 🐳 Docker (Optional) → For containerized deployment
 
 ## 📜 License
-`git clone https://github.com/YOUR_GITHUB_USERNAME/fastapi-email-validator.git
+```git clone https://github.com/YOUR_GITHUB_USERNAME/fastapi-email-validator.git
 cd fastapi-email-validator
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload
-`
+```
 
 
 ## ⚙️ Installation

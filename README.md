@@ -18,11 +18,6 @@ A API to validate email addresses by checking domain validity, MX records, black
 4️⃣ Checks for disposable & blacklisted domains  
 5️⃣ Returns JSON response with results  
 
-## 🔗 API Usage  
-### **Check Email Validity**  
-``` 
-httpPOST/check_email?email=example@gmail.com
-```
 
 ## 🛠️ Tech Stack
 
@@ -33,8 +28,14 @@ httpPOST/check_email?email=example@gmail.com
 - 📮 **SMTP** → Verifies email existence  
 - 🐳 **Docker (Optional)** → For containerized deployment  
 
+## 🔗 API Usage  
+### **Check Email Validity**  
+``` 
+httpPOST/check_email?email=example@gmail.com
+```
 
-## 📜 License
+
+## ⚙️ Installation
 ```
 git clone https://github.com/YOUR_GITHUB_USERNAME/fastapi-email-validator.git
 cd fastapi-email-validator
@@ -45,8 +46,8 @@ uvicorn main:app --reload
 ```
 
 
-## ⚙️ Installation
 
+## 📜 License
 MIT License
 ```
 This version keeps it **clean, simple, and easy to understand** while maintaining all essential details. Let me know if you need further refinements! 🚀🔥

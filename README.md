@@ -36,15 +36,10 @@ A high-performance API to validate email addresses by checking domain validity, 
 
 ## 🛠️ Tech Stack
 🚀 FastAPI → High-performance Python web framework
-
 📦 Redis → Used for caching & rate limiting
-
 📡 WHOIS → Fetches domain registration details
-
 📩 dnspython → Checks MX records for email validation
-
 📮 SMTP → Verifies email existence
-
 🐳 Docker (Optional) → For containerized deployment
 
 

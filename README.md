@@ -21,19 +21,6 @@ A high-performance API to validate email addresses by checking domain validity, 
 ### **Check Email Validity**  
 ```http POST /check_email?email=example@gmail.com```
 
-## ⚙️ Installation
-`{
-  "email": "example@gmail.com",
-  "valid_syntax": true,
-  "mx_valid": true,
-  "smtp_valid": true,
-  "disposable": false,
-  "blacklisted": false,
-  "registration_date": "2010-08-15",
-  "domain_age_days": 5000,
-  "expiry_date": "2030-08-15"
-}`
-
 ## 🛠️ Tech Stack
 🚀 FastAPI → High-performance Python web framework
 📦 Redis → Used for caching & rate limiting
@@ -42,4 +29,20 @@ A high-performance API to validate email addresses by checking domain validity, 
 📮 SMTP → Verifies email existence
 🐳 Docker (Optional) → For containerized deployment
 
+## 📜 License
+`git clone https://github.com/YOUR_GITHUB_USERNAME/fastapi-email-validator.git
+cd fastapi-email-validator
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn main:app --reload
+`
 
+
+## ⚙️ Installation
+
+MIT License
+`
+This version keeps it **clean, simple, and easy to understand** while maintaining all essential details. Let me know if you need further refinements! 🚀🔥
+`
+🚀 Start using the API today! 🚀

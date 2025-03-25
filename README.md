@@ -32,7 +32,7 @@ A high-performance API to validate email addresses by checking domain validity, 
   "registration_date": "2010-08-15",
   "domain_age_days": 5000,
   "expiry_date": "2030-08-15"
-}
+}`
 
 ## 🛠️ Tech Stack
 🚀 FastAPI → High-performance Python web framework

@@ -1,0 +1,3 @@
+spamdomain.com
+malicious.com
+phishingattack.com

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-whois
+dnspython
+redis
+aioredis
+validate-email-address

@@ -45,7 +45,7 @@ uvicorn main:app --reload
 ## ⚙️ Installation
 
 MIT License
-`
+```
 This version keeps it **clean, simple, and easy to understand** while maintaining all essential details. Let me know if you need further refinements! 🚀🔥
-`
+```
 🚀 Start using the API today! 🚀

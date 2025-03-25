@@ -4,12 +4,12 @@ A API to validate email addresses by checking domain validity, MX records, black
 
 ## ✅ Features  
 
-1. Domain Expiry & Age Calculation  
-2. MX Record Validation  
-3. Disposable Email Detection  
-4. Blacklist Status Check  
-5. Full SMTP Email Validation  
-6. API Rate Limiting with Redis  
+- Domain Expiry & Age Calculation  
+- MX Record Validation  
+- Disposable Email Detection  
+- Blacklist Status Check  
+- Full SMTP Email Validation  
+- API Rate Limiting with Redis  
 
 ## 📡 How It Works  
 1️⃣ Accepts an email address  

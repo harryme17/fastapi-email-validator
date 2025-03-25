@@ -25,11 +25,14 @@ httpPOST/check_email?email=example@gmail.com
 ```
 
 ## 🛠️ Tech Stack
-🚀 FastAPI → High-performance Python web framework
-📦 Redis → Used for caching & rate limiting
-📡 WHOIS → Fetches domain registration details
-📩 dnspython → Checks MX records for email validation📮 SMTP → Verifies email existence
-🐳 Docker (Optional) → For containerized deployment
+
+- 🚀 **FastAPI** → High-performance Python web framework  
+- 📦 **Redis** → Used for caching & rate limiting  
+- 📡 **WHOIS** → Fetches domain registration details  
+- 📩 **dnspython** → Checks MX records for email validation  
+- 📮 **SMTP** → Verifies email existence  
+- 🐳 **Docker (Optional)** → For containerized deployment  
+
 
 ## 📜 License
 ```

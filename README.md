@@ -19,7 +19,7 @@ A high-performance API to validate email addresses by checking domain validity, 
 
 ## 🔗 API Usage  
 ### **Check Email Validity**  
-```http POST /check_email?email=example@gmail.com
+```http POST /check_email?email=example@gmail.com```
 
 ## ⚙️ Installation
 `{

@@ -1,4 +1,4 @@
-# 🚀 FastAPI Email Validator API  
+# FastAPI Email Validator API 🚀  
 
 A API to validate email addresses by checking domain validity, MX records, blacklist status, and more.  
 
